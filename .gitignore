@@ -1,0 +1,7 @@
+.idea
+
+*.iml
+
+# ignore local instructions
+Instructions.md
+
